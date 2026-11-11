@@ -1,0 +1,21 @@
+{
+ "built": "2026-11-11T17:44:28Z",
+ "country": "United States",
+ "studies": 25243,
+ "registryTotal": 25243,
+ "areas": {
+  "oncology": {
+   "studies": 7734,
+   "sites": 91488
+  },
+  "neurology": {
+   "studies": 4142,
+   "sites": 19176
+  },
+  "other": {
+   "studies": 14122,
+   "sites": 64518
+  }
+ },
+ "source": "ClinicalTrials.gov API v2"
+}

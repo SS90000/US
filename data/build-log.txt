@@ -1,0 +1,7 @@
+2026-11-11 17:41:43 UTC  Registry reports 25243 open studies with a site in United States
+2026-11-11 17:44:27 UTC  Downloaded 25243 study records; 25243 detail files new or changed
+2026-11-11 17:44:28 UTC  Filled in the region for 0 sites from their city
+2026-11-11 17:44:28 UTC  oncology: 7734 studies at 91488 sites; breast 1009, lung 932, solid 931, leukemia 833, lymphoma 791, general 694, prostate 650, brain 642, gyn 638, colorectal 597, skin 468, headneck 454, pancreas 450, liver 384, sarcoma 371, childhood 368, upperGI 332, myeloma 304, bladder 295, kidney 230, neuroendocrine 118, thyroid 86, germcell 56, mesothelioma 52
+2026-11-11 17:44:29 UTC  neurology: 4142 studies at 19176 sites; dementia 680, braintumour 569, stroke 547, injury 526, neuromuscular 483, movement 439, childneuro 345, sleep 341, ms 198, epilepsy 197, headache 127, als 115, generalneuro 55, neuroinfect 48
+2026-11-11 17:44:29 UTC  other: 14122 studies at 64518 sites; mental 2691, musculoskeletal 2476, heart 2157, pain 2131, metabolic 2014, women 1664, skin 1441, general 1356, immune 1328, genetic 1277, infection 1252, lung 1071, eyeent 985, digestive 977, healthy 876, kidney 815, blood 472
+2026-11-11 17:44:29 UTC  Wrote 25243 studies; removed 0 closed studies
