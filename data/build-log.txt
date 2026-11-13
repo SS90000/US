@@ -1,12 +1,12 @@
-2026-11-13 16:15:50 UTC  Could not refresh Orphanet names (HTTP Error 404: Not Found); using the cached list if there is one
-2026-11-13 16:15:50 UTC  Rare-disease name list: 0 names
-2026-11-13 16:15:50 UTC  Registry reports 25262 open studies with a site in United States
-2026-11-13 16:17:47 UTC  Downloaded 25262 study records; 342 detail files new or changed
-2026-11-13 16:17:47 UTC  Left out (not open to new participants): ACTIVE_NOT_RECRUITING 10535, ENROLLING_BY_INVITATION 1995, SUSPENDED 783
-2026-11-13 16:17:47 UTC  Most frequent rare-disease matches: 
-2026-11-13 16:17:48 UTC  Filled in the region for 0 sites from their city
-2026-11-13 16:17:48 UTC  oncology: 7738 studies at 91540 sites; breast 1009, lung 932, solid 927, leukemia 835, lymphoma 790, general 692, prostate 648, brain 642, gyn 638, colorectal 595, skin 469, headneck 455, pancreas 450, liver 383, sarcoma 372, childhood 369, upperGI 332, myeloma 304, bladder 295, kidney 229, neuroendocrine 118, thyroid 86, germcell 56, mesothelioma 52
-2026-11-13 16:17:48 UTC  neurology: 4150 studies at 19258 sites; dementia 681, braintumour 569, stroke 549, injury 528, neuromuscular 482, movement 440, childneuro 347, sleep 342, ms 198, epilepsy 196, headache 127, als 117, generalneuro 55, neuroinfect 48
-2026-11-13 16:17:49 UTC  other: 14129 studies at 64705 sites; mental 2698, musculoskeletal 2470, heart 2154, pain 2130, metabolic 2019, women 1670, skin 1437, general 1358, immune 1327, genetic 1279, infection 1253, lung 1068, eyeent 985, digestive 981, healthy 879, kidney 816, blood 474
-2026-11-13 16:17:49 UTC  rare: 56 studies at 249 sites; genetic 44, rarecancer 16, rareneuro 15, metabolic 13, skin 9, musculoskeletal 8, immune 6, heart 6, blood 6, kidney 5, digestive 5, eyeent 4, lung 3, infection 2
-2026-11-13 16:17:49 UTC  Wrote 25262 studies; removed 27 closed studies
+2026-11-13 16:25:04 UTC  Loaded 24651 rare-disease names from Orphanet
+2026-11-13 16:25:04 UTC  Rare-disease name list: 24651 names
+2026-11-13 16:25:04 UTC  Registry reports 25262 open studies with a site in United States
+2026-11-13 16:27:07 UTC  Downloaded 25262 study records; 5084 detail files new or changed
+2026-11-13 16:27:07 UTC  Left out (not open to new participants): ACTIVE_NOT_RECRUITING 10535, ENROLLING_BY_INVITATION 1995, SUSPENDED 783
+2026-11-13 16:27:07 UTC  Most frequent rare-disease matches: multiple myeloma 595, small cell lung cancer 510, glioblastoma 487, hodgkin lymphoma 466, acute myeloid leukemia 411, non hodgkin lymphoma 383, renal cell carcinoma 364, hepatocellular carcinoma 343, follicular lymphoma 251, squamous cell carcinoma of head and neck 228, diffuse large b cell lymphoma 223, muscular dystrophy 222, acute lymphoblastic leukemia 209, amyotrophic lateral sclerosis 177, mantle cell lymphoma 163, head and neck squamous cell carcinoma 158, scleroderma 158, chronic lymphocytic leukemia 156, astrocytoma 156, cystic fibrosis 156, amyloidosis 154, cholangiocarcinoma 150, myasthenia gravis 149, systemic lupus erythematosus 149, myelodysplastic syndrome 144, sickle cell anemia 144, spinal cord injury 135, marginal zone lymphoma 128, neuroblastoma 124, osteosarcoma 119, sickle cell disease 115, alopecia 98, burkitt lymphoma 95, hemophilia 92, down syndrome 89, small lymphocytic lymphoma 88, pulmonary arterial hypertension 84, primary myelofibrosis 84, esophageal squamous cell carcinoma 82, medulloblastoma 80
+2026-11-13 16:27:08 UTC  Filled in the region for 0 sites from their city
+2026-11-13 16:27:09 UTC  oncology: 7738 studies at 91540 sites; breast 1009, lung 932, solid 927, leukemia 835, lymphoma 790, general 692, prostate 648, brain 642, gyn 638, colorectal 595, skin 469, headneck 455, pancreas 450, liver 383, sarcoma 372, childhood 369, upperGI 332, myeloma 304, bladder 295, kidney 229, neuroendocrine 118, thyroid 86, germcell 56, mesothelioma 52
+2026-11-13 16:27:09 UTC  neurology: 4150 studies at 19258 sites; dementia 681, braintumour 569, stroke 549, injury 528, neuromuscular 482, movement 440, childneuro 347, sleep 342, ms 198, epilepsy 196, headache 127, als 117, generalneuro 55, neuroinfect 48
+2026-11-13 16:27:09 UTC  other: 14129 studies at 64705 sites; mental 2698, musculoskeletal 2470, heart 2154, pain 2130, metabolic 2019, women 1670, skin 1437, general 1358, immune 1327, genetic 1279, infection 1253, lung 1068, eyeent 985, digestive 981, healthy 879, kidney 816, blood 474
+2026-11-13 16:27:10 UTC  rare: 5140 studies at 51347 sites; rarecancer 2827, blood 1533, immune 1399, genetic 1231, rareneuro 1041, musculoskeletal 913, lung 879, skin 817, metabolic 780, heart 757, digestive 626, kidney 434, infection 354, eyeent 301, raregeneral 73
+2026-11-13 16:27:10 UTC  Wrote 25262 studies; removed 0 closed studies
