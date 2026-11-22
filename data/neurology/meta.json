@@ -1,14 +1,14 @@
 {
- "built": "2026-11-21T10:10:14Z",
+ "built": "2026-11-22T07:09:54Z",
  "country": "United States",
  "area": "neurology",
- "studies": 4149,
+ "studies": 4215,
  "registryTotal": 25279,
- "sites": 19315,
+ "sites": 19314,
  "hcOnly": 0,
  "categories": {
   "epilepsy": 194,
-  "childneuro": 347,
+  "childneuro": 584,
   "neuroinfect": 49,
   "movement": 441,
   "ms": 198,
@@ -16,17 +16,17 @@
   "als": 117,
   "neuromuscular": 481,
   "braintumour": 572,
-  "stroke": 545,
+  "stroke": 528,
   "dementia": 679,
   "injury": 529,
   "generalneuro": 54,
-  "sleep": 344
+  "sleep": 210
  },
  "kinds": {
-  "obs": 826,
-  "diag": 190,
-  "treat": 2155,
-  "support": 978
+  "obs": 821,
+  "diag": 188,
+  "treat": 2230,
+  "support": 976
  },
  "source": "ClinicalTrials.gov API v2"
 }
