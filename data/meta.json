@@ -1,20 +1,20 @@
 {
- "built": "2026-11-22T10:09:27Z",
+ "built": "2026-11-23T02:14:39Z",
  "country": "United States",
  "studies": 25279,
  "registryTotal": 25279,
  "areas": {
   "oncology": {
-   "studies": 7736,
-   "sites": 91076
+   "studies": 7731,
+   "sites": 91068
   },
   "neurology": {
    "studies": 4215,
    "sites": 19314
   },
   "other": {
-   "studies": 14313,
-   "sites": 65618
+   "studies": 14316,
+   "sites": 65623
   },
   "rare": {
    "studies": 4478,

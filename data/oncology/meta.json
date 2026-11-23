@@ -1,10 +1,10 @@
 {
- "built": "2026-11-22T10:09:27Z",
+ "built": "2026-11-23T02:14:39Z",
  "country": "United States",
  "area": "oncology",
- "studies": 7736,
+ "studies": 7731,
  "registryTotal": 25279,
- "sites": 91076,
+ "sites": 91068,
  "hcOnly": 0,
  "categories": {
   "thyroid": 86,
@@ -12,8 +12,8 @@
   "kidney": 227,
   "neuroendocrine": 119,
   "leukemia": 832,
-  "general": 691,
-  "lung": 932,
+  "general": 690,
+  "lung": 928,
   "colorectal": 595,
   "bladder": 296,
   "skin": 467,
@@ -33,10 +33,10 @@
   "pancreas": 446
  },
  "kinds": {
-  "obs": 1241,
+  "obs": 1240,
   "diag": 482,
-  "treat": 4727,
-  "support": 1286
+  "treat": 4726,
+  "support": 1283
  },
  "source": "ClinicalTrials.gov API v2"
 }

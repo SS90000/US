@@ -1,10 +1,10 @@
 {
- "built": "2026-11-22T10:09:27Z",
+ "built": "2026-11-23T02:14:39Z",
  "country": "United States",
  "area": "other",
- "studies": 14313,
+ "studies": 14316,
  "registryTotal": 25279,
- "sites": 65618,
+ "sites": 65623,
  "hcOnly": 0,
  "categories": {
   "metabolic": 2048,
@@ -21,14 +21,14 @@
   "lung": 1180,
   "eyeent": 997,
   "heart": 2184,
-  "mental": 2718,
+  "mental": 2720,
   "pain": 2149,
-  "general": 1367
+  "general": 1368
  },
  "kinds": {
-  "obs": 2671,
+  "obs": 2672,
   "treat": 6559,
-  "support": 4612,
+  "support": 4614,
   "diag": 471
  },
  "source": "ClinicalTrials.gov API v2"
