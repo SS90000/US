@@ -1,4 +1,4 @@
-# Find My Trial · United States (pilot)
+# Find My Trial™ · United States (pilot)
 
 Find My Trial™: patient-facing search for open clinical trials with sites in the United States, by Salish Seven.
 
@@ -27,7 +27,7 @@ Rare-disease studies are found by matching each study's conditions to Orphanet's
 - Canada only: Health Canada-authorized trials with no public registry record. They have no sites, contacts or eligibility details. The count is in `data/meta.json` under `hcNoRegistry`.
 - Changes a sponsor has not yet made in the registry.
 
-The landing page shows the same list under "What Find My Trial does not include".
+The landing page shows the same list under "What Find My Trial™ does not include".
 
 ## Quality checks
 
