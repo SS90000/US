@@ -32,6 +32,6 @@ The landing page shows the same list under "What Find My Trial does not include"
 ## Quality checks
 
 - **Coverage (November 2026).** The list was compared with ClinicalTrials.gov in both directions: all 25,262 open studies with a US site were present and nothing extra was listed. Field checks (status, sites, ages, contacts) against the registry records all matched.
-- **Human review (November 2026).** A person checked a random sample from each section against the registry record. US: 21 studies, 2 in the wrong section (both other conditions). Canada: 24 studies, 2 in the wrong section. No intervention type was wrong. All four errors were fixed.
+- **Human review (November 2026).** A person checked a random sample from each section against the registry record. US: 21 studies, 2 in the wrong section (both other conditions). Canada: 24 studies, 2 in the wrong section. No intervention type was wrong. All four errors were fixed. A later review of 30 European trials found 4 more patterns (stop-smoking studies at cancer screening, autoimmune muscle inflammation filed under neurology, spinal muscular atrophy not marked rare, small cell lung and liver cancer marked rare); these were fixed here too.
 
 The sorting into sections and categories is automatic (text matching), so some studies will still be in the wrong place. Each pattern found in a review is fixed in `.github/build_trials.py` so that every similar study moves too, not just the one reviewed.
