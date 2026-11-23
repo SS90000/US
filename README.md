@@ -1,6 +1,6 @@
-# Clinical Trial Finder · United States (beta)
+# Find My Trial · United States (pilot)
 
-Patient-facing finders for open clinical trials with sites in the United States, by Salish Seven.
+Find My Trial™: patient-facing search for open clinical trials with sites in the United States, by Salish Seven.
 
 - Landing page: https://ss90000.github.io/US/
 - Cancer: https://ss90000.github.io/US/oncology/
@@ -27,4 +27,11 @@ Rare-disease studies are found by matching each study's conditions to Orphanet's
 - Canada only: Health Canada-authorized trials with no public registry record. They have no sites, contacts or eligibility details. The count is in `data/meta.json` under `hcNoRegistry`.
 - Changes a sponsor has not yet made in the registry.
 
-The landing page shows the same list under "What this finder does not include".
+The landing page shows the same list under "What Find My Trial does not include".
+
+## Quality checks
+
+- **Coverage (November 2026).** The list was compared with ClinicalTrials.gov in both directions: all 25,262 open studies with a US site were present and nothing extra was listed. Field checks (status, sites, ages, contacts) against the registry records all matched.
+- **Human review (November 2026).** A person checked a random sample from each section against the registry record. US: 21 studies, 2 in the wrong section (both other conditions). Canada: 24 studies, 2 in the wrong section. No intervention type was wrong. All four errors were fixed.
+
+The sorting into sections and categories is automatic (text matching), so some studies will still be in the wrong place. Each pattern found in a review is fixed in `.github/build_trials.py` so that every similar study moves too, not just the one reviewed.
