@@ -1,32 +1,32 @@
 {
- "built": "2026-11-23T10:35:17Z",
+ "built": "2026-11-24T10:28:30Z",
  "country": "United States",
- "studies": 25279,
- "registryTotal": 25279,
+ "studies": 25289,
+ "registryTotal": 25289,
  "areas": {
   "oncology": {
-   "studies": 7731,
-   "sites": 91068
+   "studies": 7733,
+   "sites": 91103
   },
   "neurology": {
-   "studies": 4182,
-   "sites": 18984
+   "studies": 4183,
+   "sites": 18947
   },
   "other": {
-   "studies": 14482,
-   "sites": 67027
+   "studies": 14490,
+   "sites": 66953
   },
   "rare": {
-   "studies": 4451,
-   "sites": 41134
+   "studies": 4455,
+   "sites": 41189
   }
  },
  "hcOnly": 0,
  "hcNoRegistry": null,
  "notIncluded": {
-  "ACTIVE_NOT_RECRUITING": 10543,
-  "ENROLLING_BY_INVITATION": 2000,
-  "SUSPENDED": 786
+  "ACTIVE_NOT_RECRUITING": 10544,
+  "ENROLLING_BY_INVITATION": 2004,
+  "SUSPENDED": 784
  },
  "source": "ClinicalTrials.gov API v2"
 }
